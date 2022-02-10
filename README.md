@@ -3,7 +3,7 @@
 Hi my name is Eric!
 
 - 🔭 I’m currently working on tools to help analyze environmental data. 
-- 🌱 I’m currently working on my masters @ Anglia Ruskin University. 
+- 🌱 I’m currently working on my masters @ Anglia Ruskin University, in Cambridge England.
 
 <!--
 **Eric-Ness/Eric-Ness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
