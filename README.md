@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi my name is Eric!
+Hi my name is Eric Ness!
 
 - 🔭 I’m currently working on tools to help analyze environmental data. 
 - 🌱 I’m currently a PhD candidate in Computer Science @ Anglia Ruskin University, in Cambridge England.
