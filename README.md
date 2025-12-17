@@ -5,7 +5,8 @@ Hi my name is Eric Ness!
 - 🔭 My day job is to work on tools to help analyze environmental data. 
 - 🌱 I’m currently a PhD candidate in Computer Science @ Anglia Ruskin University in Cambridge, England.
   - My research is around using satellite imagery, environmental data, and machine learning
-- 🍿 Popcorn enthusiast 
+- 🍿 Popcorn enthusiast
+- 📰 I also enjoy writing applications that analyze news.
 
 <!--
 **Eric-Ness/Eric-Ness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
