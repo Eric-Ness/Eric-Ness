@@ -1,3 +1,5 @@
+![Spectral data](images/EricNess-spectral-data.png)
+
 ### Hi there 👋
 
 Hi my name is Eric Ness!
